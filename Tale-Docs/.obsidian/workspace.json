@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "caf5d996f8decd6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa3ac1b0ea86019c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d046972479a0dcbb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7eb96437c3cb882",
+    "type": "split",
+    "children": [
+      {
+        "id": "52a54ff730ff1339",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbb59413f8a79d7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89a02bbc273cc09c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2edce6d31bff0036",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9b32343a053bda55",
+    "type": "split",
+    "children": [
+      {
+        "id": "995b266011de0e2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8b4fd3ff3dd25a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Graph visualization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96f153a7537bf320",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Graph visualization.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3ff61f172e7bec2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c044a0c6661ac9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Graph visualization.md"
+              }
+            }
+          },
+          {
+            "id": "f6597aa8be085189",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "cbb59413f8a79d7f",
+  "lastOpenFiles": [
+    "Meeting Minutes.md",
+    "Graph visualization.md",
+    "PhotoTags.md",
+    "Create Tables.md",
+    "Relations.md",
+    "Cockroachdb.md",
+    "Backend Development Guide.md",
+    "User.md",
+    "Stories.md",
+    "Photos.md",
+    "Album.md",
+    "Users.md",
+    "Hello.md",
+    "Making notes.md"
+  ]
+}
