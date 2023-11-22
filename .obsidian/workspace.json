@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fa3ac1b0ea86019c",
+        "id": "8a42d9be8772dee2",
         "type": "tabs",
         "children": [
           {
-            "id": "d046972479a0dcbb",
+            "id": "3d3954c0a5a6c57a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph visualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph visualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Graph visualization.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,17 +149,19 @@
   },
   "active": "cbb59413f8a79d7f",
   "lastOpenFiles": [
+    "Backend-Dev(Idea slashed)",
+    "Tables-latest_in_google_docs",
+    "Tables-latest_in_google_docs/PhotoTags.md",
+    "Tables-latest_in_google_docs/Photos.md",
+    "Tables-latest_in_google_docs/Album.md",
+    "Stories.md",
+    "Backend-Dev(Idea slashed)/Backend Development Guide.md",
+    "Backend-Dev(Idea slashed)/Create Tables.md",
+    "Backend-Dev(Idea slashed)/Cockroachdb.md",
     "Meeting Minutes.md",
     "Graph visualization.md",
-    "PhotoTags.md",
-    "Create Tables.md",
     "Relations.md",
-    "Cockroachdb.md",
-    "Backend Development Guide.md",
-    "User.md",
-    "Stories.md",
-    "Photos.md",
-    "Album.md",
+    "Tables-latest_in_google_docs/User.md",
     "Users.md",
     "Hello.md",
     "Making notes.md"
