@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8a42d9be8772dee2",
+        "id": "a80ee66d3b9e7370",
         "type": "tabs",
         "children": [
           {
-            "id": "3d3954c0a5a6c57a",
+            "id": "e16db2af4b204e0c",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "right": {
     "id": "9b32343a053bda55",
@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Time.md"
+              }
             }
           },
           {
@@ -149,17 +151,18 @@
   },
   "active": "cbb59413f8a79d7f",
   "lastOpenFiles": [
+    "Time.md",
+    "Meeting Minutes.md",
+    "Tables-latest_in_google_docs/Photos.md",
+    "Tables-latest_in_google_docs/Album.md",
+    "Backend-Dev(Idea slashed)/Create Tables.md",
+    "Backend-Dev(Idea slashed)/Cockroachdb.md",
+    "Backend-Dev(Idea slashed)/Backend Development Guide.md",
+    "Graph visualization.md",
     "Backend-Dev(Idea slashed)",
     "Tables-latest_in_google_docs",
     "Tables-latest_in_google_docs/PhotoTags.md",
-    "Tables-latest_in_google_docs/Photos.md",
-    "Tables-latest_in_google_docs/Album.md",
     "Stories.md",
-    "Backend-Dev(Idea slashed)/Backend Development Guide.md",
-    "Backend-Dev(Idea slashed)/Create Tables.md",
-    "Backend-Dev(Idea slashed)/Cockroachdb.md",
-    "Meeting Minutes.md",
-    "Graph visualization.md",
     "Relations.md",
     "Tables-latest_in_google_docs/User.md",
     "Users.md",
