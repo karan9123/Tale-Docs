@@ -67,3 +67,32 @@
 - Task 3 is on priority and Milton and Karan will meet on [Nov 28] to discuss further.
 - Karan to work on the assigned tasks and present the findings and developments in the next meeting.
 - A follow-up meeting will be scheduled to review progress and discuss any further adjustments needed based on Karan's findings.
+---
+### Minutes of the Meeting on [Nov 30, 23]
+
+
+**Agenda:**
+
+- Review of progress on user connections visualization algorithm.
+- Discussion on the creation of a table for paths for all the identified relations in the tiers.
+
+**Discussion and Decisions:**
+
+1. **Progress on User Connection Visualization Algorithm:**
+    
+    - The modification in Tier 1 connection rules, reducing the number of relations required to form a cluster from 3 to 2, was successfully incorporated.
+2. **Creation of a Table for Relationship Paths:**
+    
+    - It was decided that Karan will complete table outlining paths for all the relations identified across the tiers.
+3. **Prototyping the Algorithm:**
+    
+    - Karan will start prototyping phase for the user connection visualization algorithm.
+
+4. **Next Steps:**
+    
+    - Karan will continue working on the table for relationship paths and the prototyping of the algorithm.
+
+**Action Items:**
+
+- Karan to complete the table for relationship paths and proceed with the algorithm's prototyping.
+- Schedule a follow-up meeting to review progress and discuss next steps.

@@ -10,9 +10,9 @@
     - Place tier 1 connection cards close to the central user card without overlapping.
     - Size of tier 1 connection cards should be slightly smaller than the central card.
     - For each tier 1 connection, check if they have their own tier 1 connections.
-        - If a connection has more than 3 tier 1 connections (including the current user), connect it to the central user with a line and display up to 3 of its own tier 1 connections in smaller size.
-        - If a connection has 3 or fewer tier 1 connections, display it without a line.
-3. **Displaying Tier 2 Connections**:
+        - If a connection has more than 2 tier 1 connections (including the current user), connect it to the central user with a line and display up to 3 of its own tier 1 connections in smaller size.(Basically create a small cluster of user's upto 3 tier 1 connections and connect it using a line)
+        - If a connection has 2 or fewer tier 1 connections, display it without a line.
+1. **Displaying Tier 2 Connections**:
     
     - Check if the total number of displayed users (including tier 1 and their connections) is less than 50.
     - If yes, display tier 2 connections farther from the central user card, ensuring they form a distinct cluster.
@@ -124,3 +124,6 @@ End Algorithm
 ## Libraries to check:
 - d3.js
 - react-force-graph
+
+## Going with:
+- Apollo and graphQL 
