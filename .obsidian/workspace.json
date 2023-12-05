@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7988df7298199e7d",
+        "id": "2b5fbcba5381b605",
         "type": "tabs",
         "children": [
           {
-            "id": "666e7e8ecc942d84",
+            "id": "32aba555f1164e6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meeting Minutes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "286aa33b4aada188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GraphQL Usage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1add271093909d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meeting Minutes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e4c6a5ee49277ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meeting Minutes.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 200
   },
   "right": {
     "id": "9b32343a053bda55",
@@ -121,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Minutes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Meeting Minutes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,21 +147,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "666e7e8ecc942d84",
+  "active": "32aba555f1164e6d",
   "lastOpenFiles": [
-    "Relationships.md",
     "Relations.md",
+    "Relationships.md",
+    "Father.md",
+    "Meeting Minutes.md",
     "Graph visualization.md",
     "GraphQL Usage.md",
     "Link identification.md",
-    "Meeting Minutes.md",
+    "Backend-Dev(Idea slashed)/Create Tables.md",
+    "Backend-Dev(Idea slashed)/Backend Development Guide.md",
+    "Backend-Dev(Idea slashed)/Cockroachdb.md",
     "Untitled",
     "Time.md",
     "Tables-latest_in_google_docs/Photos.md",
     "Tables-latest_in_google_docs/Album.md",
-    "Backend-Dev(Idea slashed)/Create Tables.md",
-    "Backend-Dev(Idea slashed)/Cockroachdb.md",
-    "Backend-Dev(Idea slashed)/Backend Development Guide.md",
     "Backend-Dev(Idea slashed)",
     "Tables-latest_in_google_docs",
     "Tables-latest_in_google_docs/PhotoTags.md",

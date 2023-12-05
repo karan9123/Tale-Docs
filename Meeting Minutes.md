@@ -96,3 +96,40 @@
 
 - Karan to complete the table for relationship paths and proceed with the algorithm's prototyping.
 - Schedule a follow-up meeting to review progress and discuss next steps.
+
+---
+### Minutes of the Meeting on [Dec 05, 23]
+
+Agenda:
+
+- Review of previous meetings' decisions and progress.
+- Discussion on the backend development and prioritization of tasks.
+- Outlining and planning the next steps for backend API development.
+
+Discussion and Decisions:
+
+1. **Focus on Backend Development**:
+    
+    - Karan will primarily focus on backend development, following up on the previous meetings' discussions about user connection visualization and relationship path tables.
+2. **Prioritizing Action Items**:
+    
+    - The immediate priority for Karan is to complete the task of outlining paths for all the relations identified. This includes finalizing the table for relationship paths discussed in the previous meeting.
+3. **Backend API Development**:
+    
+    - Once the relationship paths are outlined, Karan will shift his focus to backend API development.
+    - The primary focus will be on developing the 'Read' operation out of the four CRUD (Create, Read, Update, Delete) operations. This step is crucial for ensuring efficient data retrieval.
+4. **Progression to Other CRUD Operations**:
+    
+    - After establishing 'Read' operation, Karan will then move on to the development of the remaining CRUD operations - Create, Update, and Delete.
+    - This approach will ensure a systematic and efficient development process, prioritizing the most critical operation first.
+Next Steps:
+
+- Karan will first complete the outlining of paths for all the identified relations.
+- Upon completion, the focus will shift to the development of the backend API, starting with the 'Read' operation.
+- Sequential development of the other CRUD operations will follow.
+
+Action Items:
+
+- Karan to finalize the table for relationship paths as a priority.
+- Begin the backend API development focusing initially on the 'Read' operation.
+- Plan for the sequential development of the remaining CRUD operations.
