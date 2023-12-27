@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2b5fbcba5381b605",
+        "id": "c711891fe4d54fd8",
         "type": "tabs",
         "children": [
           {
-            "id": "32aba555f1164e6d",
+            "id": "3571abb8598e1494",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Backend Dev/Insert Queries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "274caeddc3868a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work done/Work done(Dec 27).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work done/Work done(Dec 27).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work done/Work done(Dec 27).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work done/Work done(Dec 27).md"
+              }
             }
           },
           {
@@ -147,19 +168,26 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "32aba555f1164e6d",
+  "active": "274caeddc3868a6d",
   "lastOpenFiles": [
+    "Backend Dev/Insert Queries.md",
+    "Work done/Work done(Dec 27).md",
+    "Untitled",
+    "Work done",
+    "Backend Dev/Create Queries.md",
+    "Backend Dev/AWS RDS.md",
     "Relations.md",
+    "Backend Dev",
+    "Backend-Dev(Idea slashed)/Create Tables.md",
     "Relationships.md",
+    "GraphQL Usage.md",
+    "Connection Design.md",
     "Father.md",
     "Meeting Minutes.md",
     "Graph visualization.md",
-    "GraphQL Usage.md",
     "Link identification.md",
-    "Backend-Dev(Idea slashed)/Create Tables.md",
     "Backend-Dev(Idea slashed)/Backend Development Guide.md",
     "Backend-Dev(Idea slashed)/Cockroachdb.md",
-    "Untitled",
     "Time.md",
     "Tables-latest_in_google_docs/Photos.md",
     "Tables-latest_in_google_docs/Album.md",
